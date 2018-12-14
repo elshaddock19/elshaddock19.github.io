@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages 
+## About Me 
+Hello there, my name is Edward Shaddock a senior at Worcester Polytechnic Institute pursuing a degree in
+Interactive Media and Game Development and Computer Science. This website is a portfolio of all the projects 
+I completed in my Human Computer Interaction class. Also inluded is my design doc which goes into the detail 
+of my design doc. All projects here were collaborative works with other students in my class. 
 
-You can use the [editor on GitHub](https://github.com/elshaddock19/elshaddock19.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## [Design Manifesto](https://medium.com/@el.shaddock19/design-manifesto-81ec5df7c75f)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elshaddock19/elshaddock19.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# HCI Design Projects
+## [Design for Others](https://medium.com/@benemrick/group-1-design-for-others-998326e8287d)
+## [Design for Understanding](https://medium.com/@el.shaddock19/design-for-understanding-the-bachelor-vs-the-bachelorette-6546868330dc)
+## [Design for Wellbeing](https://medium.com/@el.shaddock19/design-for-well-being-f21742766f5a)
+## [Design for A New World](https://medium.com/@adhrsh122/design-for-a-new-world-d8ffca0f996f)
